@@ -33,8 +33,6 @@ jobs:
       - name: Customize Loop
         run: | 
 
-          /bin/bash -c "$(curl -fsSL \
-          https://raw.githubusercontent.com/loopandlearn/lnl-scripts/main/CustomizationSelect.sh)" \
           omnipod_cage \
           dexcom_sage \
           dexcom_upload_readings \
