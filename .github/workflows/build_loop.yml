@@ -39,12 +39,6 @@ jobs:
           future_carbs_4h \
           no_auth \
           override_sens \
-          limit_loop_cycle_time \
-          now_line \
-          lnl_icon \
-          customtypeone_looppatches \
-          2002 \
-          algorithm_experiments \
           testflight_expiration_warning
           
           # Patch Fastlane Match to not print tables
